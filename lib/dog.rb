@@ -5,4 +5,4 @@ class Dog
     @woof = "woof"
     @sit = "sit"
 end
-
+end
