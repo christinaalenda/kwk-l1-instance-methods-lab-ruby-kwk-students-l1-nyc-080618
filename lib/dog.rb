@@ -6,4 +6,5 @@ class Dog
 end
 end
 
-def 
+def sit
+  
