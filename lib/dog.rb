@@ -5,5 +5,3 @@ class Dog
     @sit = sit
 end
 end
-
-fido = Dog.new
