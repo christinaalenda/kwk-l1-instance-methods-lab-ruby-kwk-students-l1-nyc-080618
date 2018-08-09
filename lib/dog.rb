@@ -4,3 +4,4 @@ class Dog(bark, woof, sit)
   @woof = "woof"
   @sit = "sit"
 end
+puts 
