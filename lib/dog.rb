@@ -2,6 +2,8 @@
 class Dog
   def initialize(bark, sit)
     @bark = "woof"
-    @sit = sit
+    @sit = "sit"
 end
 end
+
+puts woof
