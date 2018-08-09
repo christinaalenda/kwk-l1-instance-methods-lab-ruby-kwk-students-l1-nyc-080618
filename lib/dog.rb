@@ -1,4 +1,7 @@
 # dog.rb
-class Dog(bark, woof, sit)
-  def initialize
+class Dog
+  def initialize(bark, woof, sit)
+    @bark = "bark"
+    @woof = "woof"
+    @sit = "sit"
 end
