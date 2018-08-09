@@ -7,4 +7,5 @@ end
 end
 
 def sit
-  
+  return @sit
+end
