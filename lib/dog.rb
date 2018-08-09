@@ -6,6 +6,4 @@ class Dog
 end
 end
 
-def sit
-  return @sit
-end
+fido = Dog.new
